@@ -1,4 +1,4 @@
-name: callback-analysis
+name: loom-analysis
 channels:
   - defaults
 dependencies:
@@ -7,10 +7,11 @@ dependencies:
   - ipympl
   - numpy
   - pandas
+  - pip
   - matplotlib
   - scipy
   - scikit-learn
   - seaborn
-  - opencv
   - pip:
+    - opencv-python
     - pymatreader
