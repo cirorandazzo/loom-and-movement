@@ -27,7 +27,7 @@
 ## Other files
 
 - Loom-only experiment analyses
-  - `loom-only.ipynb`: analyze loom startle latency based on audio signal
+  - `audio_startle.ipynb`: analyze loom startle latency based on audio signal
   - `movement.ipynb/.py`: analyze loom startle latency based on video frame difference
 - `videos-frame_alignment.ipynb`: demonstration of aligning video frames to audio using camera exposure channel in callback audio file
 
